@@ -1,6 +1,10 @@
-# Special-Languages-of-Programing
-This repository is a demonstration of transitioning from JavaScript to TypeScript. 
+## TypeScript Web App
 
-## Overview
-
-In this project, I will convert existing JavaScript code into TypeScript, which will allow me to leverage static typing and improve code quality. TypeScript helps catch errors early during development, enhances code readability, and provides better tooling support.
+### *About* 
+**Branch** contains necessary files to make website alive including `script.js` and its `.ts` rework.
+________
+[**Website**](https://blurryfxce.github.io/) has some interactive features:
+- Header color animation while scroll
+- Modal window pop up with animation
+- Modal window can be closed
+- Fetching data from `jsonplaceholder.typicode.com`
